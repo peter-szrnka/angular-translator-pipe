@@ -1,0 +1,11 @@
+{
+    "en" : {
+        "text.greeting": "Hello"
+    },
+    "de" : {
+        "text.greeting": "Hallo"
+    },
+    "hu" : {
+        "text.greeting": "Szia"
+    }
+}

@@ -1,2 +1,6 @@
 # angular-translator-pipe
-Custom Angular PipeTransform component
+Custom Angular PipeTransform component.
+
+To run the app use the following command:
+
+> ng serve
